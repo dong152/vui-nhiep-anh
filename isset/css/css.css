@@ -1,0 +1,69 @@
+.anh-bv a img {
+    width: 100%;
+    box-shadow: 11px 10px 17px #bab9b9;
+}
+
+.row {
+    margin: 0px 27px;
+}
+
+.name {
+    display: inline-block;
+}
+
+.btn-so-huu {
+    display: inline-block;
+    float: right;
+    width: 40%;
+    height: 43px;
+    margin-top: 5px;
+}
+
+btn-so-huu button {
+    width: 100%;
+}
+
+.btn-so-huu button {width: 100%;height: 42px;border: none;font-weight: 700;background-color: #959191;border-radius: 14px;}
+
+.btn-so-huu button:hover {
+    color: white;
+    background-color: #10a226;
+}
+.tac-gia {
+    margin-bottom: 20px;
+}
+/*nho hon 440px*/
+@media(max-width: 440px){
+    .tac-gia {
+        margin-bottom: 20px;
+    }
+
+    .btn-so-huu {
+        display: block;
+        float: none;
+        width: 100%;
+    }
+
+    .btn-so-huu {}
+
+    .name {
+        padding-top: 10px;
+    }
+}
+@media(min-width: 768px) and (max-width: 880px){
+    .tac-gia {
+        margin-bottom: 20px;
+    }
+
+    .btn-so-huu {
+        display: block;
+        float: none;
+        width: 100%;
+    }
+
+    .btn-so-huu {}
+
+    .name {
+        padding-top: 10px;
+    }
+}

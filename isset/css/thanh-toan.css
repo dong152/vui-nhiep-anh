@@ -1,0 +1,13 @@
+p#thanh-toan-main-img img {
+    width: 100%;
+}
+
+.row.thanh-toan-row {
+    margin: 0px 20px;
+}
+
+.thanh-toan-ma-anh {
+    font-size: 30px;
+    border-bottom: 3px solid #3b3939;
+    margin-bottom: 32px;
+}
